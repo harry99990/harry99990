@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry99990&label=Profile%20views&color=0e75b6&style=flat" alt="harry99990" /> </p>
 
-- 🔭 2025.03.01~03.17 { "schemaVersion": 1, "label": "파이썬", "message": "공부", "color": "red" }
+- 🔭 2025.03.01~03.17 **파이썬 공부**
 
-- 👯 2025.03.18~ { "schemaVersion": 1, "label": "데이터베이스", "message": "공부중", "color": "red" }
+- 👯 2025.03.18~ **데이터베이스 공부중**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
