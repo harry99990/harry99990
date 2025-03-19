@@ -8,7 +8,7 @@
 
 - 👯 2025.03.18~ **데이터베이스 공부중**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">같이 놀아보아요!!!:</h3>
 <p align="left">
 </p>
 
