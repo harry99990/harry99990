@@ -1,6 +1,6 @@
 
-<h1 align="left">안녕하세요👋, 저는 개발공부를 하고있는 김상협입니다.</h1>
-<h3 align="left">백엔드를 공부해보고 가지고 놀아보기위해 만들었습니다.</h3>
+<h1 align="left">안녕하세요👋, 저는 정보보안 공부를 하고있는 김상협입니다.</h1>
+<h3 align="left">리눅스와 컴퓨터 시스템을 공부해보고 가지고 놀아보기위해 만들었습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry99990&label=Profile%20views&color=0e75b6&style=flat" alt="harry99990" /> </p>
 
